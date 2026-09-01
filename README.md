@@ -46,15 +46,11 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ### Databases & Data
 
-`PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `SQL` · `Prisma`
+`SQL` · `PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma`
 
-### Frontend & Web
+### Frontend Web & Mobile
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-### Mobile
-
-`Flutter` · `Dart`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Flutter` · `Dart`
 
 ### Cloud & Infrastructure
 
