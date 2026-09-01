@@ -44,37 +44,31 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ### Backend & Frameworks
 
-`FastAPI` · `Flask` · `Laravel` · `SQLAlchemy`
+`FastAPI` · `Flask` · `Laravel` · `SQLAlchemy`  **|**  `Backend Architecture` · `REST API Design` · `Service Integration`
 
 ### Databases & Data
 
-`SQL` · `PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma`
+`SQL` · `PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma`  **|**  `Relational Data Modeling` · `Data Integrity` · `Persistence Design`
 
 ### Cloud, DevOps & Infrastructure
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`
+`Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`  **|**  `Cloud & Platform Engineering` · `CI/CD` · `Reproducible Environments`
 
-### Observability & Integration
+### Observability, Integration & Distributed Systems
 
-`OpenTelemetry` · `MCP`
+`OpenTelemetry` · `MCP`  **|**  `Distributed Systems` · `Durable Execution` · `Failure Recovery` · `Idempotency` · `Observability`
+
+### AI & Automation
+
+`MCP` · `n8n` · `OpenTelemetry`  **|**  `AI Agents` · `LLM Integrations` · `Automation Infrastructure` · `Policy Engines` · `MCP Gateways`
 
 ### Frontend Web & Mobile
 
-`React` · `Next.js` · `Flutter` · `HTML` · `CSS`
+`React` · `Next.js` · `Flutter` · `HTML` · `CSS`  **|**  `Web Application Development` · `Mobile Application Development`
 
 ### Additional Technologies
 
 `Machine Learning` · `IoT`
-
-## Engineering Areas
-
-`Backend Architecture` · `REST API Design` · `Service Integration` · `Relational Data Modeling`
-
-`Distributed Systems` · `Durable Execution` · `Failure Recovery` · `Idempotency`
-
-`Cloud & Platform Engineering` · `CI/CD` · `Reproducible Environments` · `Observability`
-
-`AI Agents` · `LLM Integrations` · `Automation Infrastructure` · `Policy Engines` · `MCP Gateways`
 
 ---
 
