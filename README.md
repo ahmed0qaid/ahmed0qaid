@@ -38,35 +38,33 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ## Core Tech Stack
 
-### Languages
+### Backend & Systems
 
-`Python` · `PHP` · `Go` · `C++20` · `TypeScript` · `JavaScript` · `Dart`
+`Python` · `PHP` · `Go` · `C++20`
 
-### Backend & Frameworks
-
-`FastAPI` · `Flask` · `Laravel` · `SQLAlchemy`  **|**  `Backend Architecture` · `REST API Design` · `Service Integration`
+`FastAPI` · `Flask` · `Laravel` · `REST APIs` · `SQLAlchemy`
 
 ### Databases & Data
 
-`SQL` · `PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma`  **|**  `Relational Data Modeling` · `Data Integrity` · `Persistence Design`
+`PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `SQL` · `Prisma`
 
-### Cloud, DevOps & Infrastructure
+### Frontend & Web
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`  **|**  `Cloud & Platform Engineering` · `CI/CD` · `Reproducible Environments`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
-### Observability, Integration & Distributed Systems
+### Mobile
 
-`OpenTelemetry` · `MCP`  **|**  `Distributed Systems` · `Durable Execution` · `Failure Recovery` · `Idempotency` · `Observability`
+`Flutter` · `Dart`
 
-### AI & Automation
+### Cloud & Infrastructure
 
-`MCP` · `n8n` · `OpenTelemetry`  **|**  `AI Agents` · `LLM Integrations` · `Automation Infrastructure` · `Policy Engines` · `MCP Gateways`
+`Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`
 
-### Frontend Web & Mobile
+### AI & Agent Infrastructure
 
-`React` · `Next.js` · `Flutter` · `HTML` · `CSS`  **|**  `Web Application Development` · `Mobile Application Development`
+`MCP` · `AI Agents` · `LLM Integrations` · `OpenTelemetry` · `Policy Engines` · `Durable Execution`
 
-### Additional Technologies
+### Additional Experience
 
 `Machine Learning` · `IoT`
 
