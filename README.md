@@ -19,6 +19,8 @@ I focus on **Backend Engineering, Cloud Systems, APIs, Databases, Distributed Sy
 
 My strongest work centers on durable execution, policy-controlled automation, observability, MCP infrastructure, cloud data pipelines, edge/cloud scheduling, and production-oriented API systems.
 
+I also have practical experience building web and mobile products with **Laravel, React, Next.js, and Flutter**.
+
 I aim to build software that is **structured, testable, deployable, observable, resilient, and safe around side effects**.
 
 ## Primary Focus
@@ -38,15 +40,25 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ### Backend & Systems
 
-`Python` · `Go` · `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `C++20`
+`Python` · `PHP` · `Go` · `C++20`
+
+`FastAPI` · `Flask` · `Laravel` · `REST APIs` · `SQLAlchemy`
+
+### Databases
+
+`PostgreSQL` · `SQL` · `Supabase` · `Prisma`
+
+### Frontend & Web
+
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+### Mobile
+
+`Flutter` · `Dart`
 
 ### Cloud & Infrastructure
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `PostgreSQL` · `Redis` · `Vercel` · `n8n`
-
-### Web & Product Engineering
-
-`Next.js` · `TypeScript` · `React` · `JavaScript` · `Prisma`
+`Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`
 
 ### AI & Agent Infrastructure
 
@@ -54,7 +66,7 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ### Additional Experience
 
-`Flutter` · `Dart` · `Supabase` · `Machine Learning` · `IoT`
+`Machine Learning` · `IoT`
 
 ---
 
@@ -132,9 +144,11 @@ Engineering work for ICPC 2026 Online Challenge 1 powered by Huawei, focused on 
 
 ## Additional Projects
 
-- [Agent Interop Runtime](https://github.com/ahmed2qaid/agent-interop-runtime) — framework-neutral runtime adapters for OpenAI Agents and LangGraph.
-- [TrustFlow Sentinel](https://github.com/ahmed2qaid/trustflow-sentinel) — evidence-gated B2B payment-change verification with deterministic policy decisions.
+- [Employee Attendance — Laravel + Supabase](https://github.com/ahmed2qaid/employee-attendance-laravel-supabase) — PHP/Laravel backend experience with Supabase integration.
+- [Employee Attendance — Flutter + Supabase](https://github.com/ahmed2qaid/employee-attendance-flutter-supabase) — Flutter/Dart mobile application with Supabase backend services.
+- [TrustFlow Sentinel](https://github.com/ahmed2qaid/trustflow-sentinel) — React frontend + FastAPI reference backend with deterministic policy decisions.
 - [Software Engineering Portfolio](https://github.com/ahmed2qaid/ahmed-portfolio) — Next.js + PostgreSQL + Prisma portfolio platform with AI failover and lead management.
+- [Agent Interop Runtime](https://github.com/ahmed2qaid/agent-interop-runtime) — framework-neutral runtime adapters for OpenAI Agents and LangGraph.
 - [Python Backend & Frontend API Integration](https://github.com/ahmed2qaid/python-backend-frontend-integration) — Flask REST API integration, validation, tests, CORS, and deployment readiness.
 
 ---
