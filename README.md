@@ -50,10 +50,6 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 `SQL` · `PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma`
 
-### Frontend & Mobile
-
-`React` · `Next.js` · `Flutter` · `HTML` · `CSS`
-
 ### Cloud, DevOps & Infrastructure
 
 `Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`
@@ -61,6 +57,10 @@ I aim to build software that is **structured, testable, deployable, observable, 
 ### Observability & Integration
 
 `OpenTelemetry` · `MCP`
+
+### Frontend Web & Mobile
+
+`React` · `Next.js` · `Flutter` · `HTML` · `CSS`
 
 ### Additional Technologies
 
