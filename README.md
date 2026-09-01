@@ -38,35 +38,43 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ## Core Tech Stack
 
-### Backend & Systems
+### Languages
 
-`Python` · `PHP` · `Go` · `C++20`
+`Python` · `PHP` · `Go` · `C++20` · `TypeScript` · `JavaScript` · `Dart`
 
-`FastAPI` · `Flask` · `Laravel` · `REST APIs` · `SQLAlchemy`
+### Backend & Frameworks
+
+`FastAPI` · `Flask` · `Laravel` · `SQLAlchemy`
 
 ### Databases & Data
 
-`PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `SQL` · `Prisma`
+`SQL` · `PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma`
 
-### Frontend & Web
+### Frontend & Mobile
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+`React` · `Next.js` · `Flutter` · `HTML` · `CSS`
 
-### Mobile
-
-`Flutter` · `Dart`
-
-### Cloud & Infrastructure
+### Cloud, DevOps & Infrastructure
 
 `Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`
 
-### AI & Agent Infrastructure
+### Observability & Integration
 
-`MCP` · `AI Agents` · `LLM Integrations` · `OpenTelemetry` · `Policy Engines` · `Durable Execution`
+`OpenTelemetry` · `MCP`
 
-### Additional Experience
+### Additional Technologies
 
 `Machine Learning` · `IoT`
+
+## Engineering Areas
+
+`Backend Architecture` · `REST API Design` · `Service Integration` · `Relational Data Modeling`
+
+`Distributed Systems` · `Durable Execution` · `Failure Recovery` · `Idempotency`
+
+`Cloud & Platform Engineering` · `CI/CD` · `Reproducible Environments` · `Observability`
+
+`AI Agents` · `LLM Integrations` · `Automation Infrastructure` · `Policy Engines` · `MCP Gateways`
 
 ---
 
