@@ -40,62 +40,62 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ### Backend & Systems
 
-![Python](https://img.shields.io/badge/Python-0A66C2?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-181717?logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0A66C2?logo=go&logoColor=white)
-![C++20](https://img.shields.io/badge/C%2B%2B20-181717?logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A66C2?logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-234A6B?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4B4F78?logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-006C87?logo=go&logoColor=white)
+![C++20](https://img.shields.io/badge/C%2B%2B20-003A66?logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00695C?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-0A66C2?logo=laravel&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-181717?logo=sqlalchemy&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-A61E16?logo=laravel&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8A1C00?logo=sqlalchemy&logoColor=white)
 
 ### Databases & Data
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A66C2?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-181717?logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0A66C2?logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-181717?logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0A66C2?logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-181717)
-![Prisma](https://img.shields.io/badge/Prisma-0A66C2?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F4F73?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2F5D73?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-8B1E24?logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1F7A5A?logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155)
+![Prisma](https://img.shields.io/badge/Prisma-1F2937?logo=prisma&logoColor=white)
 
 ### Frontend & Web
 
-![React](https://img.shields.io/badge/React-0A66C2?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-1F4D5C?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-181717?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A66C2?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0A66C2?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-245A9A?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A7610?logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A43C1E?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1F4F7A?logo=css3&logoColor=white)
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-0A66C2?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-181717?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0B5D8A?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0B5A6B?logo=dart&logoColor=white)
 
 ### Cloud & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-0A66C2?logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-181717?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A66C2?logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-181717?logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0A66C2?logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A5FA8?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-174A7A?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1F5A9E?logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8E2A27?logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-181717?logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0A66C2?logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-9A3150?logo=n8n&logoColor=white)
 
 ### AI & Agent Infrastructure
 
-![MCP](https://img.shields.io/badge/MCP-0A66C2)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-181717)
-![LLM Integrations](https://img.shields.io/badge/LLM%20Integrations-0A66C2)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-181717?logo=opentelemetry&logoColor=white)
-![Policy Engines](https://img.shields.io/badge/Policy%20Engines-0A66C2)
-![Durable Execution](https://img.shields.io/badge/Durable%20Execution-181717)
+![MCP](https://img.shields.io/badge/MCP-4338CA)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1F2937)
+![LLM Integrations](https://img.shields.io/badge/LLM%20Integrations-5B21B6)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-2B2B2B?logo=opentelemetry&logoColor=white)
+![Policy Engines](https://img.shields.io/badge/Policy%20Engines-374151)
+![Durable Execution](https://img.shields.io/badge/Durable%20Execution-334155)
 
 ### Additional Experience
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?logo=scikitlearn&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-181717)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A65C00?logo=scikitlearn&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-1F4E5F)
 
 ---
 
