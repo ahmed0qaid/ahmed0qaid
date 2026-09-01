@@ -40,33 +40,62 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 ### Backend & Systems
 
-`Python` · `PHP` · `Go` · `C++20`
-
-`FastAPI` · `Flask` · `Laravel` · `REST APIs` · `SQLAlchemy`
+![Python](https://img.shields.io/badge/Python-0A66C2?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-181717?logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0A66C2?logo=go&logoColor=white)
+![C++20](https://img.shields.io/badge/C%2B%2B20-181717?logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A66C2?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0A66C2?logo=laravel&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-181717?logo=sqlalchemy&logoColor=white)
 
 ### Databases & Data
 
-`PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `SQL` · `Prisma`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A66C2?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-181717?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0A66C2?logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-181717?logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0A66C2?logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-181717)
+![Prisma](https://img.shields.io/badge/Prisma-0A66C2?logo=prisma&logoColor=white)
 
 ### Frontend & Web
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+![React](https://img.shields.io/badge/React-0A66C2?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-181717?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A66C2?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0A66C2?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white)
 
 ### Mobile
 
-`Flutter` · `Dart`
+![Flutter](https://img.shields.io/badge/Flutter-0A66C2?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-181717?logo=dart&logoColor=white)
 
 ### Cloud & Infrastructure
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `Redis` · `Vercel` · `GitHub Pages` · `n8n`
+![Docker](https://img.shields.io/badge/Docker-0A66C2?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-181717?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A66C2?logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-181717?logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0A66C2?logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-0A66C2?logo=n8n&logoColor=white)
 
 ### AI & Agent Infrastructure
 
-`MCP` · `AI Agents` · `LLM Integrations` · `OpenTelemetry` · `Policy Engines` · `Durable Execution`
+![MCP](https://img.shields.io/badge/MCP-0A66C2)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-181717)
+![LLM Integrations](https://img.shields.io/badge/LLM%20Integrations-0A66C2)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-181717?logo=opentelemetry&logoColor=white)
+![Policy Engines](https://img.shields.io/badge/Policy%20Engines-0A66C2)
+![Durable Execution](https://img.shields.io/badge/Durable%20Execution-181717)
 
 ### Additional Experience
 
-`Machine Learning` · `IoT`
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?logo=scikitlearn&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-181717)
 
 ---
 
