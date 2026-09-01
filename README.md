@@ -56,7 +56,7 @@ I care about more than making code run. I aim to make systems **structured, test
 
 ### Additional Experience
 
-`Flutter` · `Dart` · `C++` · `Machine Learning` · `IoT`
+`Flutter` · `Dart` · `C++20` · `Machine Learning` · `IoT`
 
 ---
 
@@ -145,7 +145,7 @@ Highlights:
 
 ## ☁️ Edge–Cloud Collaborative Scheduling
 
-**C++17 · Algorithms · Scheduling · Resource Allocation · Edge/Cloud Systems**
+**C++20 · Algorithms · Scheduling · Resource Allocation · Edge/Cloud Systems**
 
 Engineering work for ICPC 2026 Online Challenge 1 powered by Huawei, focused on dynamic batching, SLO-aware scheduling, latency/throughput trade-offs, resource allocation, and model-predictive scheduling.
 
