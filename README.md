@@ -6,8 +6,8 @@
 
 Building reliable backend systems, cloud-native platforms, automation infrastructure, and AI-agent runtimes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahmed2qaid-181717?logo=github)](https://github.com/ahmed2qaid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Software%20Engineering-0A66C2)](https://github.com/ahmed2qaid/ahmed-portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmed0qaid-181717?logo=github)](https://github.com/ahmed0qaid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Software%20Engineering-0A66C2)](https://github.com/ahmed0qaid/ahmed-portfolio)
 
 </div>
 
@@ -80,7 +80,7 @@ A control plane that places policy, approvals, cost guardrails, execution tracin
 
 **Engineering highlights:** deterministic policy evaluation, human approval gates, guarded MCP execution, retry/safe replay, cost accounting, PostgreSQL persistence, Redis foundation, Docker Compose, and CI quality gates.
 
-🔗 [View repository](https://github.com/ahmed2qaid/agentic-automation-control-plane)
+🔗 [View repository](https://github.com/ahmed0qaid/agentic-automation-control-plane)
 
 ---
 
@@ -92,7 +92,7 @@ A Postgres-first durable execution core for AI agents that checkpoints expensive
 
 **Engineering highlights:** transaction-safe checkpoints, worker leases, heartbeats, concurrency protection, cancellation, exponential retry/backoff, per-attempt timeouts, deterministic tests, and migrations.
 
-🔗 [View repository](https://github.com/ahmed2qaid/durable-agent-runtime)
+🔗 [View repository](https://github.com/ahmed0qaid/durable-agent-runtime)
 
 ---
 
@@ -104,7 +104,7 @@ A policy-enforcement gateway between AI agents/MCP clients and real MCP servers.
 
 **Engineering highlights:** per-agent identity, role-aware policies, HMAC approval tokens, argument-bound approvals, rate limiting, egress allowlists, schema pinning, circuit breakers, audit logs, tests, and CI.
 
-🔗 [View repository](https://github.com/ahmed2qaid/mcp-policy-gateway)
+🔗 [View repository](https://github.com/ahmed0qaid/mcp-policy-gateway)
 
 ---
 
@@ -116,7 +116,7 @@ OpenTelemetry-native trajectory tracing for AI agents, focused on the execution 
 
 **Engineering highlights:** framework adapters, trajectory events, tool/model/handoff tracing, retry/error annotations, usage and cost metadata, n8n execution imports, MCP tracing, and trajectory diffing.
 
-🔗 [View repository](https://github.com/ahmed2qaid/agenttrace-otel)
+🔗 [View repository](https://github.com/ahmed0qaid/agenttrace-otel)
 
 ---
 
@@ -128,7 +128,7 @@ A zero-paid-infrastructure intelligence pipeline that discovers rising GitHub re
 
 **Engineering highlights:** scheduled collection, historical snapshots, trend/opportunity scoring, browser-side skill matching, validation, static deployment, and a fully automated data refresh pipeline.
 
-🔗 [View repository](https://github.com/ahmed2qaid/RepoRadar)
+🔗 [View repository](https://github.com/ahmed0qaid/RepoRadar)
 
 ---
 
@@ -138,18 +138,18 @@ A zero-paid-infrastructure intelligence pipeline that discovers rising GitHub re
 
 Engineering work for ICPC 2026 Online Challenge 1 powered by Huawei, focused on dynamic batching, SLO-aware scheduling, latency/throughput trade-offs, resource allocation, and model-predictive scheduling.
 
-🔗 [View repository](https://github.com/ahmed2qaid/edge-cloud-collaborative-scheduling)
+🔗 [View repository](https://github.com/ahmed0qaid/edge-cloud-collaborative-scheduling)
 
 ---
 
 ## Additional Projects
 
-- [Employee Attendance — Laravel + Supabase](https://github.com/ahmed2qaid/employee-attendance-laravel-supabase) — PHP/Laravel backend experience with Supabase integration.
-- [Employee Attendance — Flutter + Supabase](https://github.com/ahmed2qaid/employee-attendance-flutter-supabase) — Flutter/Dart mobile application with Supabase backend services.
-- [TrustFlow Sentinel](https://github.com/ahmed2qaid/trustflow-sentinel) — React frontend + FastAPI reference backend with deterministic policy decisions.
-- [Software Engineering Portfolio](https://github.com/ahmed2qaid/ahmed-portfolio) — Next.js + PostgreSQL + Prisma portfolio platform with AI failover and lead management.
-- [Agent Interop Runtime](https://github.com/ahmed2qaid/agent-interop-runtime) — framework-neutral runtime adapters for OpenAI Agents and LangGraph.
-- [Python Backend & Frontend API Integration](https://github.com/ahmed2qaid/python-backend-frontend-integration) — Flask REST API integration, validation, tests, CORS, and deployment readiness.
+- [Employee Attendance — Laravel + Supabase](https://github.com/ahmed0qaid/employee-attendance-laravel-supabase) — PHP/Laravel backend experience with Supabase integration.
+- [Employee Attendance — Flutter + Supabase](https://github.com/ahmed0qaid/employee-attendance-flutter-supabase) — Flutter/Dart mobile application with Supabase backend services.
+- [TrustFlow Sentinel](https://github.com/ahmed0qaid/trustflow-sentinel) — React frontend + FastAPI reference backend with deterministic policy decisions.
+- [Software Engineering Portfolio](https://github.com/ahmed0qaid/ahmed-portfolio) — Next.js + PostgreSQL + Prisma portfolio platform with AI failover and lead management.
+- [Agent Interop Runtime](https://github.com/ahmed0qaid/agent-interop-runtime) — framework-neutral runtime adapters for OpenAI Agents and LangGraph.
+- [Python Backend & Frontend API Integration](https://github.com/ahmed0qaid/python-backend-frontend-integration) — Flask REST API integration, validation, tests, CORS, and deployment readiness.
 
 ---
 
@@ -178,6 +178,6 @@ I am especially interested in roles involving:
 
 ### Explore my work
 
-[GitHub Projects](https://github.com/ahmed2qaid?tab=repositories) · [Portfolio Repository](https://github.com/ahmed2qaid/ahmed-portfolio)
+[GitHub Projects](https://github.com/ahmed0qaid?tab=repositories) · [Portfolio Repository](https://github.com/ahmed0qaid/ahmed-portfolio)
 
 </div>
