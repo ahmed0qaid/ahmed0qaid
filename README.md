@@ -28,7 +28,7 @@ I aim to build software that is **structured, testable, deployable, observable, 
 - Backend Engineering
 - Cloud & Platform Engineering
 - REST APIs and service integration
-- PostgreSQL and data modeling
+- Relational Databases, SQL & Data Modeling
 - Docker and reproducible environments
 - CI/CD and GitHub Actions
 - Distributed and durable execution systems
@@ -44,9 +44,9 @@ I aim to build software that is **structured, testable, deployable, observable, 
 
 `FastAPI` · `Flask` · `Laravel` · `REST APIs` · `SQLAlchemy`
 
-### Databases
+### Databases & Data
 
-`PostgreSQL` · `SQL` · `Supabase` · `Prisma`
+`PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `SQL` · `Prisma`
 
 ### Frontend & Web
 
@@ -170,7 +170,7 @@ Engineering work for ICPC 2026 Online Challenge 1 powered by Huawei, focused on 
 
 I am especially interested in roles involving:
 
-**Backend Engineering · Cloud Engineering · Platform Engineering · Distributed Systems · API Development · Automation Infrastructure · AI Infrastructure**
+**Backend Engineering · Cloud Engineering · Platform Engineering · Distributed Systems · API Development · Databases · Automation Infrastructure · AI Infrastructure**
 
 ---
 
