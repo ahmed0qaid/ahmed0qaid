@@ -4,7 +4,7 @@
 
 ### Backend & Cloud Software Engineer
 
-Building production-oriented backend systems, cloud applications, automation platforms, and AI-enabled software.
+Building reliable backend systems, cloud-native platforms, automation infrastructure, and AI-agent runtimes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed2qaid-181717?logo=github)](https://github.com/ahmed2qaid)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Software%20Engineering-0A66C2)](https://github.com/ahmed2qaid/ahmed-portfolio)
@@ -15,48 +15,46 @@ Building production-oriented backend systems, cloud applications, automation pla
 
 ## About Me
 
-I focus on **Backend Engineering, Cloud Systems, APIs, Databases, Automation, and AI Infrastructure**.
+I focus on **Backend Engineering, Cloud Systems, APIs, Databases, Distributed Systems, Automation, and AI Infrastructure**.
 
-My projects are centered around solving real engineering problems: policy-controlled automation, cloud data pipelines, API integrations, observability, distributed scheduling, database-backed products, and AI-assisted workflows.
+My strongest work centers on durable execution, policy-controlled automation, observability, MCP infrastructure, cloud data pipelines, edge/cloud scheduling, and production-oriented API systems.
 
-I care about more than making code run. I aim to make systems **structured, testable, deployable, observable, and easy to understand**.
+I aim to build software that is **structured, testable, deployable, observable, resilient, and safe around side effects**.
 
 ## Primary Focus
 
 - Backend Engineering
-- Cloud & DevOps
+- Cloud & Platform Engineering
 - REST APIs and service integration
 - PostgreSQL and data modeling
-- Docker and deployment workflows
+- Docker and reproducible environments
 - CI/CD and GitHub Actions
+- Distributed and durable execution systems
+- Observability and OpenTelemetry
 - Automation and agent infrastructure
-- Distributed and edge/cloud systems
+- MCP gateways and policy enforcement
 
 ## Core Tech Stack
 
-### Backend
+### Backend & Systems
 
-`Python` · `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `Prisma`
+`Python` · `Go` · `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `C++20`
 
 ### Cloud & Infrastructure
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Neon PostgreSQL` · `Redis` · `n8n`
-
-### Databases
-
-`PostgreSQL` · `SQL` · `Supabase`
+`Docker` · `Docker Compose` · `GitHub Actions` · `PostgreSQL` · `Redis` · `Vercel` · `n8n`
 
 ### Web & Product Engineering
 
-`Next.js` · `TypeScript` · `React` · `JavaScript`
+`Next.js` · `TypeScript` · `React` · `JavaScript` · `Prisma`
 
-### Systems & AI Infrastructure
+### AI & Agent Infrastructure
 
-`MCP` · `AI Agents` · `LLM Integrations` · `OpenTelemetry concepts` · `Policy Engines` · `Automation Workflows`
+`MCP` · `AI Agents` · `LLM Integrations` · `OpenTelemetry` · `Policy Engines` · `Durable Execution`
 
 ### Additional Experience
 
-`Flutter` · `Dart` · `C++20` · `Machine Learning` · `IoT`
+`Flutter` · `Dart` · `Supabase` · `Machine Learning` · `IoT`
 
 ---
 
@@ -66,42 +64,47 @@ I care about more than making code run. I aim to make systems **structured, test
 
 **FastAPI · Next.js · PostgreSQL · Redis · Docker · n8n · MCP · CI/CD**
 
-A control plane that places policy, approvals, cost guardrails, observability, and auditability in front of n8n workflows and AI agents.
+A control plane that places policy, approvals, cost guardrails, execution tracing, and auditability in front of n8n workflows and AI agents.
 
-Key engineering areas:
-
-- deterministic policy engine
-- human approval gates
-- MCP gateway for AI agents
-- retry and safe replay workflows
-- execution traces and cost ledger
-- PostgreSQL persistence
-- Redis foundation
-- Docker Compose deployment
-- GitHub Actions quality gates
+**Engineering highlights:** deterministic policy evaluation, human approval gates, guarded MCP execution, retry/safe replay, cost accounting, PostgreSQL persistence, Redis foundation, Docker Compose, and CI quality gates.
 
 🔗 [View repository](https://github.com/ahmed2qaid/agentic-automation-control-plane)
 
 ---
 
-## 🔐 TrustFlow Sentinel
+## ⚙️ Durable Agent Runtime
 
-**FastAPI · React · API Integrations · Policy Engine · AI · CI**
+**Go · PostgreSQL · Durable Execution · Worker Leases · Retry · CI**
 
-Evidence-gated B2B payment-change verification system designed around auditable decision making.
+A Postgres-first durable execution core for AI agents that checkpoints expensive side effects and safely recovers work after crashes.
 
-Highlights:
+**Engineering highlights:** transaction-safe checkpoints, worker leases, heartbeats, concurrency protection, cancellation, exponential retry/backoff, per-attempt timeouts, deterministic tests, and migrations.
 
-- document evidence extraction
-- external signal verification
-- deterministic ALLOW / REVIEW / BLOCK policy flow
-- human review path
-- audit trail
-- FastAPI reference backend
-- React frontend
-- mock/real provider switching for reproducible development
+🔗 [View repository](https://github.com/ahmed2qaid/durable-agent-runtime)
 
-🔗 [View repository](https://github.com/ahmed2qaid/trustflow-sentinel)
+---
+
+## 🔐 MCP Policy Gateway
+
+**Python · MCP · Zero-Trust Policy · Rate Limiting · Approvals · Audit**
+
+A policy-enforcement gateway between AI agents/MCP clients and real MCP servers.
+
+**Engineering highlights:** per-agent identity, role-aware policies, HMAC approval tokens, argument-bound approvals, rate limiting, egress allowlists, schema pinning, circuit breakers, audit logs, tests, and CI.
+
+🔗 [View repository](https://github.com/ahmed2qaid/mcp-policy-gateway)
+
+---
+
+## 🔭 AgentTrace OTel
+
+**Python · OpenTelemetry · OpenAI Agents SDK · LangGraph · n8n · MCP**
+
+OpenTelemetry-native trajectory tracing for AI agents, focused on the execution path an agent takes rather than only prompts, tokens, and latency.
+
+**Engineering highlights:** framework adapters, trajectory events, tool/model/handoff tracing, retry/error annotations, usage and cost metadata, n8n execution imports, MCP tracing, and trajectory diffing.
+
+🔗 [View repository](https://github.com/ahmed2qaid/agenttrace-otel)
 
 ---
 
@@ -109,37 +112,11 @@ Highlights:
 
 **Python · GitHub REST API · GitHub Actions · GitHub Pages · Data Pipelines**
 
-Zero-paid-infrastructure intelligence dashboard that discovers rising GitHub repositories and contributor-friendly open issues.
+A zero-paid-infrastructure intelligence pipeline that discovers rising GitHub repositories and contributor-friendly open issues.
 
-Highlights:
-
-- scheduled GitHub Actions collector
-- historical growth snapshots
-- trend and opportunity scoring
-- browser-side skill matching
-- JSON-based static data pipeline
-- zero-cost deployment architecture
+**Engineering highlights:** scheduled collection, historical snapshots, trend/opportunity scoring, browser-side skill matching, validation, static deployment, and a fully automated data refresh pipeline.
 
 🔗 [View repository](https://github.com/ahmed2qaid/RepoRadar)
-
----
-
-## 🌐 Software Engineering Portfolio Platform
-
-**Next.js · TypeScript · PostgreSQL · Prisma · Gemini · Groq · Vercel**
-
-A production-oriented bilingual portfolio platform with an admin dashboard, database-backed lead management, AI-provider failover, notifications, and cloud deployment.
-
-Highlights:
-
-- full content-management dashboard
-- Neon PostgreSQL + Prisma
-- AI fallback between Gemini and Groq
-- structured lead lifecycle
-- Telegram and email notifications
-- Arabic/English RTL/LTR architecture
-
-🔗 [View repository](https://github.com/ahmed2qaid/ahmed-portfolio)
 
 ---
 
@@ -153,47 +130,33 @@ Engineering work for ICPC 2026 Online Challenge 1 powered by Huawei, focused on 
 
 ---
 
-## 🔌 Python Backend & Frontend API Integration
+## Additional Projects
 
-**Flask · REST API · Testing · CORS · Environment Configuration · Cloud Deployment**
-
-A backend-focused integration project demonstrating API design, validation, error handling, automated tests, frontend communication, and deployment readiness.
-
-🔗 [View repository](https://github.com/ahmed2qaid/python-backend-frontend-integration)
+- [Agent Interop Runtime](https://github.com/ahmed2qaid/agent-interop-runtime) — framework-neutral runtime adapters for OpenAI Agents and LangGraph.
+- [TrustFlow Sentinel](https://github.com/ahmed2qaid/trustflow-sentinel) — evidence-gated B2B payment-change verification with deterministic policy decisions.
+- [Software Engineering Portfolio](https://github.com/ahmed2qaid/ahmed-portfolio) — Next.js + PostgreSQL + Prisma portfolio platform with AI failover and lead management.
+- [Python Backend & Frontend API Integration](https://github.com/ahmed2qaid/python-backend-frontend-integration) — Flask REST API integration, validation, tests, CORS, and deployment readiness.
 
 ---
 
 ## Engineering Principles
 
-I try to apply these principles across my projects:
-
 - Clear separation of concerns
-- Explicit configuration through environment variables
-- Automated testing where practical
+- Explicit configuration and environment management
+- Automated tests and CI where practical
 - Reproducible local environments
-- Safe handling of external integrations
+- Safe handling of side effects and external integrations
+- Failure recovery and idempotency-aware design
+- Observability and auditability
 - Deployment-aware architecture
-- Useful documentation and architecture diagrams
+- Useful technical documentation
 - Honest project descriptions without inflated claims
-
-## Current Learning & Growth
-
-I am continuing to deepen my skills in:
-
-- production backend architecture
-- cloud infrastructure
-- distributed systems
-- observability and OpenTelemetry
-- queues, workers, and resilient execution
-- secure API design
-- agent and MCP infrastructure
-- open-source collaboration
 
 ## Open to Opportunities
 
-I am especially interested in opportunities involving:
+I am especially interested in roles involving:
 
-**Backend Engineering · Cloud Engineering · Platform Engineering · API Development · Automation Infrastructure · AI Infrastructure**
+**Backend Engineering · Cloud Engineering · Platform Engineering · Distributed Systems · API Development · Automation Infrastructure · AI Infrastructure**
 
 ---
 
